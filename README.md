@@ -51,8 +51,8 @@ python src/inference.py
 ```
 Press **'q'** to exit the webcam feed.
 
-## Dataset
-- The dataset should be structured as follows:
+## Dataset - FER-2013
+- The model is trained on the FER-2013 (Facial Expression Recognition 2013) dataset, which consists of 35,887 grayscale images of 48x48 pixels. The dataset is structured as follows:
   ```
   dataset/
   ├── train/
