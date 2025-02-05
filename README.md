@@ -1,7 +1,7 @@
 # Emotion Detection using ResNet34 and OpenCV
 
 ## Overview
-This project implements an emotion detection system using a ResNet34-based convolutional neural network. The model is trained on grayscale facial images and detects seven emotions: **Angry, Disgust, Fear, Happy, Neutral, Sad, and Surprise**. It also includes a real-time webcam-based emotion detection system using OpenCV.
+This project implements an emotion detection system using a ResNet34-based convolutional neural network. The model is trained on grayscale facial images from the FER-2013 dataset and detects seven emotions:  **Angry, Disgust, Fear, Happy, Neutral, Sad, and Surprise**. It also includes a real-time webcam-based emotion detection system using OpenCV.
 
 ## Features
 - Data preprocessing and augmentation using `ImageDataGenerator`
