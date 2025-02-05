@@ -19,7 +19,8 @@ Emotion-Detection-ResNet34/
 │   ├── train.py                   
 │   ├── model.py                   
 │   ├── inference.py
-│── requirements.txt               
+│── requirements.txt
+│── .gitignore       
 │── README.md                      
 
 ```
