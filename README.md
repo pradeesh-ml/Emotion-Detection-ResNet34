@@ -13,17 +13,15 @@ This project implements an emotion detection system using a ResNet34-based convo
 ## Project Structure
 ```
 Emotion-Detection-ResNet34/
-│── dataset/                      # Folder to store dataset (add a README for instructions)
-│── models/                        # Stores trained models (add .gitignore for large files)
-│── notebooks/                     # Jupyter Notebooks for experimentation
-│── src/                           # Source code
-│   ├── train.py                   # Training script
-│   ├── model.py                   # ResNet34 model definition
-│   ├── dataset_loader.py          # Data preprocessing & augmentation
-│   ├── inference.py               # Script for live webcam inference
-│── requirements.txt               # List of dependencies
-│── README.md                      # Project documentation
-│── .gitignore                     # To ignore unnecessary files (dataset, large model files)
+│── models/                        
+│── notebooks/                     
+│── src/                           
+│   ├── train.py                   
+│   ├── model.py                   
+│   ├── inference.py
+│── requirements.txt               
+│── README.md                      
+
 ```
 
 ## Installation
