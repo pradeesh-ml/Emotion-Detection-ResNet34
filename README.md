@@ -19,7 +19,7 @@ Emotion-Detection-ResNet34/
 │   ├── train.py                   
 │   ├── model.py                   
 │   ├── inference.py
-│── requirements.txt
+│── requirement.txt
 │── .gitignore       
 │── README.md                      
 
@@ -34,7 +34,7 @@ cd Emotion-Detection-ResNet34
 
 ### 2. Install Dependencies
 ```sh
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 ## Training the Model
