@@ -28,7 +28,7 @@ Emotion-Detection-ResNet34/
 ## Installation
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/your-username/Emotion-Detection-ResNet34.git
+git clone https://github.com/pradeesh-ml/Emotion-Detection-ResNet34.git
 cd Emotion-Detection-ResNet34
 ```
 
